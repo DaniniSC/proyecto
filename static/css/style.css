@@ -1,0 +1,14 @@
+.btn	{
+	margin-bottom: 5px;
+}
+.status	{
+	display: inline-block;
+	height: 300px;
+}
+
+.loading	{
+	background-image: url('/static/img/ajax-loader.gif');
+	background-size: 100px;
+    background-repeat: no-repeat;
+    background-position: 104% -15%;
+}
